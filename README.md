@@ -12,6 +12,7 @@
 # Introduction
 Every decade Healthcare.gov produces a set of goals for public health in the United States called <a name="https://health.gov/healthypeople">‘Healthy People’.</a> This created some standards for change in screening for Osteoporosis, as well as for improving treatment proportions for those with osteoporosis. They also set a preventative standard for reducing hospitalizations from hip fractures in older adults (from 5.7 to 4.6 per thousand older adults per year). The <a name="https://health.gov/healthypeople/objectives-and-data/browse-objectives/osteoporosis/reduce-hip-fractures-among-older-adults-o-02/evidence-based-resources">'evidence-based resources'</a> the page supplies talk about drug treatments and screening, they completely miss one of the most important preventative measures to reduce the likelihood of osteoporosis - exercise.
 
+my links don't work in md here >:C
 
 # Proposed Methods <a name="prop"></a>
 ## Methods
