@@ -10,36 +10,35 @@
 
 
 # Introduction
-Every decade Healthcare.gov produces a set of goals for public health in the United States called <a name="https://health.gov/healthypeople">‘Healthy People’.</a> This created some standards for change in screening for Osteoporosis, as well as for improving treatment proportions for those with osteoporosis. They also set a preventative standard for reducing hospitalizations from hip fractures in older adults (from 5.7 to 4.6 per thousand older adults per year). The <a name="https://health.gov/healthypeople/objectives-and-data/browse-objectives/osteoporosis/reduce-hip-fractures-among-older-adults-o-02/evidence-based-resources">'evidence-based resources'</a> the page supplies talk about drug treatments and screening, they completely miss one of the most important preventative measures to reduce the likelihood of osteoporosis - exercise.
+Every decade Healthcare.gov produces a set of goals for public health in the United States called <a href="https://health.gov/healthypeople">‘Healthy People’.</a> This created some standards for change in screening for Osteoporosis, as well as for improving treatment proportions for those with osteoporosis. They also set a preventative standard for reducing hospitalizations from hip fractures in older adults (from 5.7 to 4.6 per thousand older adults per year). The <a href="https://health.gov/healthypeople/objectives-and-data/browse-objectives/osteoporosis/reduce-hip-fractures-among-older-adults-o-02/evidence-based-resources">'evidence-based resources'</a> the page supplies talk about drug treatments and screening, they completely miss one of the most important preventative measures to reduce the likelihood of osteoporosis - exercise.
 
-my links don't work in md here >:C
 
 # Proposed Methods <a name="prop"></a>
 ## Methods
-    asd123
+asd123
 ## Participants
-    We wanted our sample to be representative of the people who most likely stood to gain the most from adherence to the exercise routine. Because of this, we chose
+We wanted our sample to be representative of the people who most likely stood to gain the most from adherence to the exercise routine. Because of this, we chose
 ## Exclusion criteria
-    asd123
+asd123
 ## Intervention
-    asd123
+asd123
 ## Routine
-    asd123
+asd123
 ## Measures
-    asd123
+asd123
 
 
 # Proposed Analysis
 ## analysis
-    Mixed assignment, mixed variable factorial design;
-    Two-way ANOVA for each variable
+Mixed assignment, mixed variable factorial design;\
+Two-way ANOVA for each variable
 
 
 # Design Considerations
-    asd123
+asd123
 
 # Implications/Applications (discussion?)
-    asd123
+asd123
 
 # References
 1. Rivera-Torres, S., Fahey, T. D., & Rivera, M. A. (2019). Adherence to Exercise Programs in Older Adults: Informative Report. Gerontology and Geriatric Medicine, 5, 233372141882360. doi:10.1177/2333721418823604
